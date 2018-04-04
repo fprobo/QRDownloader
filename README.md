@@ -10,7 +10,7 @@ Script that downloads the file through a QR code from its context menu.
 # install the requirements
 > pip install -r requirements.txt
 
-# move script to script directory
+# move script to nautilus script directory
 > mv qr.py ~/.local/share/nautilus/scripts/
 
 #change current directory
