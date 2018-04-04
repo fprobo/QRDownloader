@@ -9,11 +9,6 @@ import SocketServer
 import SimpleHTTPServer
 from PIL import Image
 
-'''
-~/.local/share/nautilus/scripts/
-chmod +x script
-'''
-
 def localIP():
     s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     s.connect(("8.8.8.8", 80))
