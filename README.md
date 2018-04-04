@@ -1,5 +1,6 @@
 # QR Downloader
 
+Script that downloads the file through a QR code from its context menu.
 
 ### Installing
 ```
