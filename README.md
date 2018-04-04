@@ -1,6 +1,6 @@
 # QR Downloader
 
-Script that downloads the file through a QR code from its context menu.
+Script that downloads the file through a QR code from its context menu in the same network.
 
 ### Installation
 ```bash
