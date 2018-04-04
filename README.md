@@ -1,5 +1,8 @@
 # QR Downloader
 
+
+
+### Installing
 ```
 mv qr.py ~/.local/share/nautilus/scripts/
 cd ~/.local/share/nautilus/scripts/
